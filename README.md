@@ -1,2 +1,2 @@
-#TravelSathi
-###Demo : https://travelsathi.netlify.app
+# TravelSathi
+### Demo : https://travelsathi.netlify.app
