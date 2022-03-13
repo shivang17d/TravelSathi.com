@@ -1,6 +1,9 @@
-## File Download :
-- Step 1 : Switch back to Phase-1
-- Step 2 : Add download file in index.html
+## Ejs Template Engine :
+- Step 1 : Run `npm install ejs` command in terminal
+
+![image](https://user-images.githubusercontent.com/86548591/158076838-78bfc1b7-260f-4dda-a1fc-6cdf29f54e8d.png)
+
+- Step 2 : 
 
 ![image](https://user-images.githubusercontent.com/86548591/158075978-47043a18-2ff4-41c0-b93c-287aab908506.png)
 
