@@ -28,3 +28,5 @@
 ![image](https://user-images.githubusercontent.com/86548591/158078925-1ecc7a48-fbea-4260-9787-ff32366b2751.png)
 
 ![image](https://user-images.githubusercontent.com/86548591/158078935-7da6938f-7f2b-46ed-aec6-1c87417215b1.png)
+
+-Step 5 : To avoid repitive code => Create partials folder and create nav.ejs file 
