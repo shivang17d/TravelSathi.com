@@ -9,4 +9,6 @@
 
 ![image](https://user-images.githubusercontent.com/86548591/158077241-dd3d5be4-38f1-4507-bead-0a7760b4af1b.png)
 
+![image](https://user-images.githubusercontent.com/86548591/158077470-dfb544a6-17dc-446e-8321-8f53b8023be0.png)
+
 - Step 3 : Create views folder
