@@ -17,4 +17,10 @@
 
 ![image](https://user-images.githubusercontent.com/86548591/158078488-a29946d8-1eb7-42b8-813a-52b4ca9cc0dd.png)
 
+- Step 4 : To fetch data from server into views folder (ejs)
 
+![image](https://user-images.githubusercontent.com/86548591/158078834-66f9dfff-e4fa-44d0-8a6c-4b546e21f29b.png)
+
+![image](https://user-images.githubusercontent.com/86548591/158078843-70056fb7-80f7-4758-8d1d-d706ed63e55d.png)
+
+![image](https://user-images.githubusercontent.com/86548591/158078856-17afa072-735a-407d-a9a0-ccec8ce9c48c.png)
