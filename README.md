@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/86548591/158078114-185183b8-8a71-44b3-812f-208354ddbdd3.png)
 
-- Step 3 : Create views folder and move html files into views folder and also change extension to ejs
+- Step 3 : Create views folder and move html files into views folder and also change extension to ejs and update index.js
 
 ![image](https://user-images.githubusercontent.com/86548591/158078290-effc573a-c35d-439d-b57a-068616816c47.png)
 
