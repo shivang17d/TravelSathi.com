@@ -1,10 +1,7 @@
-## Static Middleware :
-- Step 1 : Create static folder named as public and move index.html and about.html in public folder
-- Step 2 : Update index.html , about.html and index.js
+## File Download :
+- Step 1 : Switch back to Phase-1
+- Step 2 : Add download file in index.html
 
-![image](https://user-images.githubusercontent.com/86548591/158044828-b479d267-9eae-4520-8123-5bbeaec10a26.png)
+![image](https://user-images.githubusercontent.com/86548591/158075978-47043a18-2ff4-41c0-b93c-287aab908506.png)
 
-![image](https://user-images.githubusercontent.com/86548591/158044831-a49af1ec-eab7-4513-88dc-5dc3926c79e2.png)
-
-![image](https://user-images.githubusercontent.com/86548591/158044832-d742ff74-5d5e-40a1-97a0-7beb7cddb2cf.png)
 
