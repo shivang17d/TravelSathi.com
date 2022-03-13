@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/86548591/158078935-7da6938f-7f2b-46ed-aec6-1c87417215b1.png)
 
-- Step 5 : To avoid repitive code in ejs => Create partials folder and create nav.ejs and head.ejs file 
+- Step 5 : To avoid repetitive code in ejs => Create partials folder and create nav.ejs and head.ejs file 
 
 ![image](https://user-images.githubusercontent.com/86548591/158079319-70f23c95-1256-4128-a55a-a14cc752451a.png)
 
